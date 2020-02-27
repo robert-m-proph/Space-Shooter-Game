@@ -1,0 +1,7 @@
+Program Requirements:
+
+1. Python 3.7 or later
+2. Python Imports:
+	a. pygame
+	b. os
+	c. random
